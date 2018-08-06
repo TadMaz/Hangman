@@ -1,0 +1,9 @@
+ 5) Text Game:
+Overview:
+A complete text game, be able to move through rooms on users command, get descriptions of each room, be able to interact within rooms, be able to gain items to gain treasure in your game. I suggest you make your game with as little as 6 rooms with the user moving walls or rocks in order to get an item which they will use to get another item, in order to get the treasure and complete the game.
+What you will be Using:
+Strings, Variables, Input/Output, If/Elif/Else, Print, While (Loop), Lists, and more
+My Thoughts on Project:
+By far the project you will learn the most from, don't be afraid to look at my source code. But don't make a clone of my game, make your game original and unique; my way of setting up the rooms and how the descriptions are read should not be the way you do it. There is more than one way to do it in Python, take advantage of it!
+Download my Source Code:
+http://www.mediafire.com/?zfiw2joyzoy
